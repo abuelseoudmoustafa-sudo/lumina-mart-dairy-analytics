@@ -48,12 +48,6 @@ Is the current growth sustainable?
 
 ---
 
-## 📂 Project Structure
-
-See folders for dashboards, insights, and case study.
-
----
-
 ## 👥 Team Members
 
 * Nourhan Abdelrahman – Data Cleaning
