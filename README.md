@@ -48,12 +48,6 @@ Is the current growth sustainable?
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Overview](Dashboard/screenshots/overview.png)
-
----
-
 ## 📂 Project Structure
 
 See folders for dashboards, insights, and case study.
