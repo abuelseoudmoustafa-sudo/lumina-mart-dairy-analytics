@@ -121,7 +121,8 @@ To achieve sustainable growth, Lumina Mart should:
 - Moustafa Abuelseoud – Data Modeling  
 - Ahmed Rashed – Data Modeling  
 - Omar Adel – Dashboard  
-- Noha Shouman – Presentation  
+- Noha Shouman – Presentation
+- Mohamed Nabil – Our Speaker   
 
 ---
 
